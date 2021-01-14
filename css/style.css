@@ -1,0 +1,91 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: "Roboto", sans-serif;
+}
+header {
+  background-color: #fffbf0;
+}
+.navbar-brand img {
+  width: 200px;
+}
+h2,
+h3,
+h3,
+h5 {
+  font-family: "Bebas Neue", sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 48px;
+}
+p {
+  font-family: "Roboto", sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 26px;
+}
+.navbar-list li a {
+  margin-right: 30px;
+  font-family: "Roboto", sans-serif;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 24px;
+}
+.top-left h1 {
+  font-family: Bebas Neue;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 80px;
+  line-height: 80px;
+}
+.orange-highlighter {
+  color: #fabe4c;
+}
+.card img {
+  width: 210px;
+  height: 250px;
+}
+.penguin-card {
+  border: 0;
+  border-radius: 15px;
+  box-shadow: 5px 5px 30px rgba(0, 0, 0, 0.09);
+}
+.penguin-img {
+  border: 0;
+  border-radius: 15px;
+  background-color: #f1f1f1;
+}
+.penguin-card-footer {
+  border: 0;
+  background-color: white;
+}
+.cart-button,
+cart-button:hover,
+cart-button:focus,
+cart-button:active {
+  text-decoration: none;
+  background-color: #8da724;
+  border-radius: 5px;
+  padding: 15px 25px;
+  color: white !important;
+}
+section {
+  margin-bottom: 100px;
+}
+.service {
+  border-radius: 10px;
+}
+@media (min-width: 576px) {
+}
+@media (min-width: 768px) {
+}
+@media (min-width: 992px) {
+  .navbar-brand img {
+    width: 500px;
+  }
+}
+@media (min-width: 1200px) {
+}
+@media (min-width: 1400px) {
+}
